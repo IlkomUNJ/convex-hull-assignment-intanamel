@@ -1,0 +1,16 @@
+# ninja log v6
+0	191	1759245449848020467	komgraf_1_autogen/timestamp	2537470450a6ee7d
+0	191	1759245449848020467	/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/komgraf_1_autogen/timestamp	2537470450a6ee7d
+192	1155	1759245449855810609	CMakeFiles/komgraf_1.dir/main.cpp.o	6a96d0737b8c23a9
+0	191	1759245449848020467	komgraf_1_autogen/mocs_compilation.cpp	2537470450a6ee7d
+0	191	1759245449848020467	/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/komgraf_1_autogen/mocs_compilation.cpp	2537470450a6ee7d
+193	1170	1759245449856471825	CMakeFiles/komgraf_1.dir/drawingwidget.cpp.o	6ad7c1a4c18007d2
+192	1077	1759245449854890606	CMakeFiles/komgraf_1.dir/komgraf_1_autogen/mocs_compilation.cpp.o	f59d24ce98a39752
+193	1181	1759245449856160879	CMakeFiles/komgraf_1.dir/mainwindow.cpp.o	e7314867f8b3a8c8
+3	276	1759247137462331231	komgraf_1_autogen/timestamp	2537470450a6ee7d
+3	276	1759247137462331231	komgraf_1_autogen/mocs_compilation.cpp	2537470450a6ee7d
+3	276	1759247137462331231	/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/komgraf_1_autogen/timestamp	2537470450a6ee7d
+3	276	1759247137462331231	/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/komgraf_1_autogen/mocs_compilation.cpp	2537470450a6ee7d
+277	1692	1759247137468331114	CMakeFiles/komgraf_1.dir/komgraf_1_autogen/mocs_compilation.cpp.o	c495d2dd20c83273
+278	1695	1759247137470058852	CMakeFiles/komgraf_1.dir/mainwindow.cpp.o	9fec6ab02b4669d0
+278	1722	1759247137469331094	CMakeFiles/komgraf_1.dir/main.cpp.o	ceb986d9ee3fb1d4
