@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_komgraf_1_FILE /home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/komgraf_1)
+set(__QT_DEPLOY_TARGET_komgraf_1_TYPE EXECUTABLE)

@@ -1,0 +1,5 @@
+/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_1.dir
+/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_1_autogen_timestamp_deps.dir
+/home/intan/komgraf_1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_1_autogen.dir

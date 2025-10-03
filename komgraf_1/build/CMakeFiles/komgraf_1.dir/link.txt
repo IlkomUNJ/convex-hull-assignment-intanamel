@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/komgraf_1.dir/komgraf_1_autogen/mocs_compilation.cpp.o CMakeFiles/komgraf_1.dir/main.cpp.o CMakeFiles/komgraf_1.dir/mainwindow.cpp.o CMakeFiles/komgraf_1.dir/drawingwidget.cpp.o -o komgraf_1  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 
